@@ -1,4 +1,4 @@
-FROM fithwum/debian-base:buster
+FROM fithwum/debian-base:bullseye
 MAINTAINER fithwum
 
 ARG USER_ID=99
